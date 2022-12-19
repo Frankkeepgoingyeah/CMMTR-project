@@ -1,4 +1,4 @@
-The file "making_matrix" and "PCA_method" are used as module to be imported in other two files. 
+The file "making_matrix" and "PCA_method" are used as modules to be imported in other two files. 
 The file "grid_visualization" is used to create the eigen demand images. 
 The file "predictions" is used for the prediction experiments of PRP-PCA models, HA model and C-PCA model.
 
